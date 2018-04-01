@@ -1,2 +1,2 @@
 # Pong
-Pong made in pygame using python
+Pong made in python using the pygame library
